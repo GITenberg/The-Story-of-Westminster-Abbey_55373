@@ -1,11 +1,16 @@
 _repo: The-Story-of-Westminster-Abbey_55373
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55373-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Brooke-Hunt, Violet
     gutenberg_agent_id: '48310'
     url: http://www.gutenberg.org/2009/agents/48310
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55373#The-Story-of-Westminster-Abbey
 gutenberg_issued: '2017-08-16'
 gutenberg_type: Text
 identifiers:
